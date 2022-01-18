@@ -1,0 +1,1 @@
+This package contains the necessary classes for running the syntax processor for the English language. It contains the main processor plus helper classes for the realisation of particular phrase types.
